@@ -9,3 +9,6 @@ My first Git Exercise! 15.05.2025
 
 From the lines
 Shield by shield
+
+
+-----------------------------
