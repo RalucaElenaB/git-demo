@@ -6,15 +6,15 @@ on this their chosen battle field
 My first Git Exercise! 15.05.2025
 My first Git Exercise! 15.05.2025
 
-
 From the lines
 Shield by shield
 
-
 -----------------------------
-
 
 new branch content is here
 
-
 new new new content main vs. features branch
+
+new updates for non fast-forward merge
+
+anoter changes
